@@ -4,7 +4,88 @@
       "id": 1,
       "title": "Pearl Jam",
       "subtitle": "",
-      "imagePath": "./src/assets/pearl_jam_album.jpeg",
+      "creator": "",
+      "imagePath": "./assets/pearl_jam_album.jpeg",
+      "type": "Artist"
+    },
+    {
+      "id": 2,
+      "title": "Pearl Jam",
+      "subtitle": "Avocado",
+      "creator": "Guilherme G.",
+      "imagePath": "./assets/pearl_jam_avocado_album.jpeg",
+      "type": "Album"
+    },
+    {
+      "id": 3,
+      "title": "Pense",
+      "subtitle": "Realidade, Vida e Fe",
+      "creator": "Girardi",
+      "imagePath": "./assets/pense_album.jpeg",
+      "type": "Album"
+    },
+    {
+      "id": 4,
+      "title": "Led Zeppelin",
+      "subtitle": "",
+      "creator": "",
+      "imagePath": "./assets/led_zeppelin_artist.jpeg",
+      "type": "Artist"
+    },
+    {
+      "id": 5,
+      "title": "Kendrick Lamar",
+      "subtitle": "",
+      "creator": "",
+      "imagePath": "./assets/kendrick.jpeg",
+      "type": "Artist"
+    },
+    {
+      "id": 6,
+      "title": "Dead Fish",
+      "subtitle": "Ponto Cego",
+      "creator": "Gira",
+      "imagePath": "./assets/ponto_cego.png",
+      "type": "Album"
+    },
+    {
+      "id": 7,
+      "title": "Daily Mix 1",
+      "subtitle": "",
+      "creator": "",
+      "imagePath": "./assets/daily_mix_1.png",
+      "type": "Artist"
+    },
+    {
+      "id": 8,
+      "title": "Daily Mix 2",
+      "subtitle": "",
+      "creator": "",
+      "imagePath": "./assets/daily_mix_2.png",
+      "type": "Artist"
+    },
+    {
+      "id": 9,
+      "title": "Daily Mix 3",
+      "subtitle": "",
+      "creator": "",
+      "imagePath": "./assets/daily_mix_3.png",
+      "type": "Artist"
+    },
+    {
+      "id": 10,
+      "title": "Daily Mix 4",
+      "subtitle": "",
+      "creator": "",
+      "imagePath": "./assets/daily_mix_4.png",
+      "type": "Artist"
+    },
+    {
+      "id": 11,
+      "title": "Daily Mix 5",
+      "subtitle": "",
+      "creator": "",
+      "imagePath": "./assets/daily_mix_5.png",
       "type": "Artist"
     }
   ]
