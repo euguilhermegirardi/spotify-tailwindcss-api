@@ -1,0 +1,11 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Pearl Jam",
+      "subtitle": "",
+      "imagePath": "./src/assets/pearl_jam_album.jpeg",
+      "type": "Artist"
+    }
+  ]
+}
